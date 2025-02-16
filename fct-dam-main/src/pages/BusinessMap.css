@@ -1,0 +1,23 @@
+md body,
+.ios body {
+  --ion-background-color: none;
+}
+
+ion-modal {
+  --background: #fff;
+}
+
+.map {
+  width: 100%;
+  height: 400px;
+}
+
+capacitor-google-map {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+
+#content-map {
+  --background: none;
+}

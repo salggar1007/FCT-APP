@@ -1,0 +1,7 @@
+{
+  "name": "FCTApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

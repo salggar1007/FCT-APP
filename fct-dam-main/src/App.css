@@ -1,0 +1,10 @@
+ion-fab {
+    bottom: 5vh;
+    right: 5vh;
+}
+
+ion-item.selected {
+    --color: var(--ion-color-primary);
+    --background: rgba(var(--ion-color-primary-rgb), 0.14);
+}
+

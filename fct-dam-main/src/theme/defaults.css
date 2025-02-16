@@ -1,0 +1,12 @@
+ion-title {
+  font-weight: 400 !important;
+  letter-spacing: 0.4px !important;
+}
+  
+.input-clear-icon {
+  &.sc-ion-input-ios,
+  &.sc-ion-input-md {
+    width: calc(1.2rem);
+    margin-inline-start: .5rem;
+  }
+}
